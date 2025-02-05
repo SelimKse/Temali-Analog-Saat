@@ -17,7 +17,7 @@ Projeyi yerel ortamınıza indirmek ve çalıştırmak için aşağıdaki adıml
 
 ```bash
 # Depoyu klonlayın
-git clone [https://github.com/kullanici_adi/tema-analog-saat.git](https://github.com/SelimKse/Temali-Analog-Saat.git)
+git clone https://github.com/SelimKse/Temali-Analog-Saat.git
 
 # Proje dizinine gidin
 cd tema-analog-saat
