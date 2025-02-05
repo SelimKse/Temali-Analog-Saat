@@ -17,7 +17,7 @@ Projeyi yerel ortamınıza indirmek ve çalıştırmak için aşağıdaki adıml
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/kullanici_adi/tema-analog-saat.git
+git clone [https://github.com/kullanici_adi/tema-analog-saat.git](https://github.com/SelimKse/Temali-Analog-Saat.git)
 
 # Proje dizinine gidin
 cd tema-analog-saat
@@ -32,10 +32,10 @@ Projeyi çalıştırmak için sadece tarayıcınızda `index.html` dosyasını a
 
 ## Ekran Görüntüleri
 ### Koyu Tema
-![Koyu Tema Saat Görseli](path/to/dark-theme-image.png)
+![Koyu Tema Saat Görseli](dark-theme-image.png)
 
 ### Açık Tema
-![Açık Tema Saat Görseli](path/to/light-theme-image.png)
+![Açık Tema Saat Görseli](light-theme-image.png)
 
 ## Katkıda Bulunma
 Katkıda bulunmak isterseniz aşağıdaki adımları izleyin:
